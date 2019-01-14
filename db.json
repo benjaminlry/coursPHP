@@ -1,0 +1,24 @@
+{
+  "Rooms": [
+    {
+      "numRoom": 101,
+      "numFloor": 1
+    },
+    {
+      "numRoom": 102,
+      "numFloor": 1
+    },
+    {
+      "numRoom": 103,
+      "numFloor": 1
+    },
+    {
+      "numRoom": 104,
+      "numFloor": 1
+    },
+    {
+      "numRoom": 105,
+      "numFloor": 1
+    }
+  ]
+}
